@@ -1,3 +1,3 @@
 # Software Project - 2021.2
 ## Final Project - Scrum Board Project
-## Technology: Spring Boot, JPA, Hibernate, H2 Database...
+## Technology: Spring Boot
