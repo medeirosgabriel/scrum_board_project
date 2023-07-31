@@ -1,4 +1,3 @@
 # Software Project - 2021.2
 ## Final Project - Scrum Board Project
-## Professor: Fábio Jorge Almeida Morais
-## Technology: Spring Boot
+## Technology: Spring Boot, JPA, Hibernate, H2 Database...
